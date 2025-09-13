@@ -109,4 +109,4 @@ A mix of **Exploratory Data Analysis (EDA)** and **Machine Learning (Random Fore
 
 ## Author
 **Khushi Barange**  
-*M.Sc. Biochemistry | Aspiring Data Scientist | Skilled in Python, Data Analysis, and Bioinformatics*  
+Aspiring Data Scientist 
