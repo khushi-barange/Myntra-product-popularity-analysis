@@ -5,7 +5,7 @@
 Understanding what factors make a product popular on Myntra, one of India's leading online fashion retailers. The goal is to analyze product features like price, discount, ratings, and reviews to extract actionable business insights.
 
 ## 2. Dataset Description
-The dataset was scraped from Myntra and contains product-level details such as price, MRP, discount information, ratings, number of reviews, and product categories.
+The dataset was taken from Kaggle and contains product-level details such as price, MRP, discount information, ratings, number of reviews, and product categories.
 
 ## 3. Data Cleaning & Processing
 - Price, MRP, and Discount columns were parsed to extract numeric values.
